@@ -1,0 +1,17 @@
+<html>
+<head>
+<title> activida 34</title>
+pulsador
+</head>
+<body bgcolor="orange" text="white">
+
+
+<video src="video pulsador.MP4"  width=320  height=240  controls  poster="vistaprevia.jpg">
+</center>
+<p><FONT COLOR="red" size=4  <div style='text-align:center' ” > </div style='text-align:center' ” >Un pulsador es un operador eléctrico que, cuando se oprime, permite el paso de la corriente eléctrica y, cuando se deja de oprimir, lo interrumpe  </H1> <BR> </p>  
+
+<img align 
+</body>
+</html
+</body>
+</html
